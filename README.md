@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Extract-clinicaltrial** is a collection of Jupyter notebooks designed to scrape, process, and analyze clinical trial data from [clinicaltrials.gov](https://clinicaltrials.gov/). This repository focuses on extracting information specific to Phase 1 and Phase 3 trials and filtering interventions post-Phase 3. The notebooks provide a structured approach to data extraction and manipulation, suitable for researchers, data scientists, and professionals in the pharmaceutical and biotechnology industries.
+**Extract-clinicaltrial** is a program designed to scrape, process, and analyze clinical trial data from [clinicaltrials.gov](https://clinicaltrials.gov/). This repository focuses on extracting information specific to Phase 1 and Phase 3 trials. The notebooks provide a structured approach to data extraction and manipulation, suitable for researchers, data scientists, and professionals in the pharmaceutical and biotechnology industries.
 
 ## Contents
 
