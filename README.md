@@ -9,6 +9,7 @@
 - **Automated Data Extraction**: Use of Python and APIs to pull data from clinicaltrials.gov.
 - **Phase-Specific Analysis**: Dedicated notebooks for Phase 1 and Phase 3 clinical trials, making it easy to focus on specific stages of drug development.
 - **Advanced Filtering**: Advanced filtering to identify detailed information after Phase 1/3 extraction.
+- **Comprehensive Data Visualization**: Automated generation of charts and tables to summarize key findings, enabling quick insights into trial trends and outcomes.
 
 ## Requirements
 
